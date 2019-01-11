@@ -8,4 +8,8 @@ Requirements
 ============
 
 * [nodejs](https://nodejs.org/en/)
+* API key from NSW Fuel API - register [here](https://api.nsw.gov.au/user/register)
+* Access Token - to generate please follow steps [here](https://api.nsw.gov.au/How-Tos)
+
+
 
