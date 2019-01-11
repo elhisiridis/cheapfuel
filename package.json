@@ -1,0 +1,13 @@
+{
+    "name": "cheap_fuel",
+    "version": "1.0.0",
+    "description": "Application to retrive cheap fuel based on location",
+    "main": "cheap_fuel",
+    "author": "Eleni Hisiridis",
+    "dependencies": {
+        "sanitize": "2.1.0",
+        "request": "2.88.0",
+        "dateformat": "3.0.3",
+        "uniqid": "5.0.3"
+    }
+}
